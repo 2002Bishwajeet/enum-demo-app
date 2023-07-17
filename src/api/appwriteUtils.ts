@@ -1,5 +1,5 @@
-import { Client, Account, Avatars } from 'appwrite';
-import { CreditCard } from '../../node_modules/appwrite/src/enums/credit-card.ts';
+import { Client, Account, Avatars, CreditCard } from 'appwrite';
+
 
 
 const client = new Client().setEndpoint('https://cloud.appwrite.io/v1').setProject('test-2');

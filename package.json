@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@appwrite.io/pink": "^0.0.6-rc.14",
-    "appwrite": "file:../sdk-generator/examples/web/packageName-0.0.0.tgz",
+    "appwrite": "github:2002Bishwajeet/sdk-for-web",
     "prismjs": "^1.29.0",
     "svelte-prism": "^1.1.6"
   }
